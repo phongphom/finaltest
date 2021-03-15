@@ -57,7 +57,7 @@
     <figure class="highcharts-figure">
         <div id="container"></div>
         <p class="highcharts-description">
-           อาอุ้มมมมมมม
+           หลังจากได้เรียนวิชานี้ ผมรู้สึกว่า เป็นวิชาที่ค่อนข้าง จะมีประโยชน์ เพราะได้รู้จักโปรแกรมหลายตัวมากครับ
         </p>
     </figure>
 
@@ -69,11 +69,11 @@
         },
 
         title: {
-            text: 'Highcharts item chart'
+            text: 'นาย นันทวัฒน์ จันทร์ลอย'
         },
 
         subtitle: {
-            text: 'Parliament visualization'
+            text: 'สาขา it รหัส 63310224'
         },
 
         legend: {
@@ -84,10 +84,10 @@
             name: 'Representatives',
             keys: ['name', 'y', 'color', 'label'],
             data: [
-                ['The Left', 69, '#BE3075', 'DIE LINKE'],
-                ['Social Democratic Party', 153, '#EB001F', 'SPD'],
-                ['Alliance 90/The Greens', 67, '#64A12D', 'GRÜNE'],
-                ['Free Democratic Party', 80, '#FFED00', 'FDP'],
+                ['นิสิตม.บูรพา', 69, '#BE3075', 'อิอิ'],
+                ['ชาลาเฮดชาลา', 153, '#EB001F', 'สปุ้กนิ้ก'],
+                ['thebest', 67, '#64A12D', 'wifu'],
+                ['fubuki', 80, '#FFED00', 'elite miko'],
                 ['Christian Democratic Union', 200, '#000000', 'CDU'],
                 ['Christian Social Union in Bavaria', 46, '#008AC5', 'CSU'],
                 ['Alternative for Germany', 94, '#009EE0', 'AfD']
