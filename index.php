@@ -57,7 +57,7 @@
     <figure class="highcharts-figure">
         <div id="container"></div>
         <p class="highcharts-description">
-           sanuk dee kub
+            ชอบที่ได้เรียนรู้สิ่งต่างๆคับบ
         </p>
     </figure>
 
@@ -69,11 +69,11 @@
         },
 
         title: {
-            text: 'มามอส'
+            text: 'ป๋าพรหม เทพซ่าา'
         },
 
         subtitle: {
-            text: 'นาย ธนวัฒน์ สุวรรณวงศ์ 63310006'
+            text: 'นายพงษ์พรหม จงประสิทธิ์ 63310096'
         },
 
         legend: {
