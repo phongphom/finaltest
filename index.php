@@ -57,7 +57,7 @@
     <figure class="highcharts-figure">
         <div id="container"></div>
         <p class="highcharts-description">
-           คร้าบหลังจากได้เรียนวิชานี้ ผมรู้สึกว่า เป็นวิชาที่ค่อนข้าง จะมีประโยชน์ เพราะได้รู้จักโปรแกรมหลายตัวมากครับ
+           sanuk dee kub
         </p>
     </figure>
 
